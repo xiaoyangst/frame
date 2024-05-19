@@ -4,7 +4,7 @@ English | [简体中文](README-CN.md)
 
 Frame is a minimal hexo theme. Inspired by traditional paintings and their frames, Frame is designed to showcase personal blogs, profiles, or portfolios in a concise and elegant way.
 
-[👉 Demo Site]([https://frame.zhangyongqi.com/](https://zoeingwingkei.github.io/frame-demo-site/))
+[👉 Demo Site]([https://frame.zhangyongqi.com/](https://zoeingwingkei.github.io/frame-demo-site/)
 
 ## Getting started
 
