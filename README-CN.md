@@ -164,14 +164,14 @@ npm i hexo-math --save
 
 ### 评论系统
 
-Frame 现在支持的第三方评论系统有：[valine](https://valine.js.org/) 和 [disqus](https://disqus.com/)。详细的用法介绍请参考[这篇文章](https://frame.zhangyongqi.com/2021/11/11/comment/)。
+Frame 现在支持的第三方评论系统有：[valine](https://valine.js.org/) 和 [disqus](https://disqus.com/)。详细的用法介绍请参考[这篇文章](https://zoeingwingkei.github.io/frame-demo-site/2021/11/11/comment/)。
 
 ### 本地搜索
 
-Frame 现在支持使用 [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb) 的本地搜索功能。详细的用法介绍请参考[这篇文章](https://frame.zhangyongqi.com/2022/08/05/local-search/)。
+Frame 现在支持使用 [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb) 的本地搜索功能。详细的用法介绍请参考[这篇文章](https://zoeingwingkei.github.io/frame-demo-site/2022/08/05/local-search/)。
 
 ## 版权
 
 此项目使用 [MIT License](https://opensource.org/licenses/MIT)。
 
-在 [示例网站](https://frame.zhangyongqi.com) 里所展示的所有图片均来自克劳德·莫奈（Claude Monet，1840 - 1926）的作品，目前其作品在其原属国家和其他国家地区都属于公共版权的范畴内。
+在 [示例网站](https://zoeingwingkei.github.io/frame-demo-site/) 里所展示的所有图片均来自克劳德·莫奈（Claude Monet，1840 - 1926）的作品，目前其作品在其原属国家和其他国家地区都属于公共版权的范畴内。
