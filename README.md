@@ -167,15 +167,15 @@ npm i hexo-math --save
 
 ### Blog Comments
 
-Frame now supports third-party comment systems: [valine](https://valine.js.org/) and [disqus](https://disqus.com/). A detailed description can be found in [this post](https://frame.zhangyongqi.com/2021/11/11/comment/).
+Frame now supports third-party comment systems: [valine](https://valine.js.org/) and [disqus](https://disqus.com/). A detailed description can be found in [this post](https://zoeingwingkei.github.io/frame-demo-site/2021/11/11/comment/).
 
 ### Local Search
 
-Frame now supports local search with the hexo plugin [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb).  A detailed description can be found in [this post](https://frame.zhangyongqi.com/2022/08/05/local-search/).
+Frame now supports local search with the hexo plugin [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb).  A detailed description can be found in [this post](https://zoeingwingkei.github.io/frame-demo-site/2022/08/05/local-search/).
 
 ## License
 
 This project is released under [MIT License](https://opensource.org/licenses/MIT).
 
-All the images used in the [demo site](https://frame.zhangyongqi.com) are the works from Claude Monet (1840 - 1926), which is considered to be in the public domain in its country of origin and other countries and areas.
+All the images used in the [demo site](https://zoeingwingkei.github.io/frame-demo-site) are the works from Claude Monet (1840 - 1926), which is considered to be in the public domain in its country of origin and other countries and areas.
 
